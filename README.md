@@ -22,8 +22,8 @@ A comprehensive research assistant built with LangChain that can gather informat
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-research-assistant.git
-cd ai-research-assistant
+git clone https://github.com/skkuhg/Advanced-Sentiment-Analysis-DSPy-LLM.git
+cd Advanced-Sentiment-Analysis-DSPy-LLM
 ```
 
 2. Install required packages:
